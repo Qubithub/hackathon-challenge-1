@@ -1,7 +1,7 @@
-# hackathon-challenge-1
+# Challenge 1 — IBM Quantum Fundamentals Track
 
-Challenge 1 — IBM Quantum Fundamentals Track
 Welcome to Challenge 1, provided by IBM Quantum.
+
 Your task is to complete three IBM learning notebooks, document your full solution process, and prepare a short team video explaining your work.
 This challenge evaluates both your technical understanding and your ability to communicate your approach clearly.
 
